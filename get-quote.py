@@ -2,8 +2,8 @@ def main():
    print("Keep it logically awesome.")
 
   f = open("quotes.txt")
-  #quotes = f.readlines()
-  #f.closdsddsse()
+  #quotes = f.readlines()iijj
+  #f.closdsddsse()gjnnjnjnjk
 
   #print(quotes)
 
