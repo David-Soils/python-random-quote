@@ -7,5 +7,9 @@ def main():
   #print(quotes)
 
 if __name__== "__main__":
+<<<<<<< HEAD
   main()11112456
   
+=======
+  main()111
+>>>>>>> lkjjl
